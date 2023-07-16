@@ -1,0 +1,5 @@
+streamlit==0.87.0
+networkx==2.6.2
+matplotlib==3.5.1
+numpy==1.21.2
+plotly==5.7.0
